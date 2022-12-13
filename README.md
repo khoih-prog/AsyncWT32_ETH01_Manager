@@ -154,7 +154,7 @@ This [**AsyncWT32_ETH01_Manager** library](https://github.com/khoih-prog/AsyncWT
 ##### WT32_ETH01
 
 <p align="center">
-    <img src="https://github.com/khoih-prog/ESP32_W5500_Manager/raw/main/Images/WT32_ETH01.png">
+    <img src="https://github.com/khoih-prog/AsyncWT32_ETH01_Manager/raw/main/Images/WT32_ETH01.png">
 </p>
  
 ---
